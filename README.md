@@ -1,0 +1,1 @@
+# gsminas.github.io
