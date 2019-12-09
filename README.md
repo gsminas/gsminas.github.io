@@ -1,2 +1,2 @@
-# gsminas.github.io
+# JavaDoc
 file:///Users/georgeminas/IdeaProjects/search-gsminas/package-summary.html
